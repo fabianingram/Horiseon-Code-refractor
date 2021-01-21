@@ -13,4 +13,4 @@ GitHub Repo URL: https://github.com/natswatch/horiseon
 
 
 
-![image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)
+<img width="640" alt="Screen Shot 2021-01-21 at 11 42 01 AM" src="https://user-images.githubusercontent.com/68198938/105397029-ca9b2f80-5bdd-11eb-9b48-a42ed97aacbc.png">
